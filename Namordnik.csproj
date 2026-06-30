@@ -126,6 +126,7 @@
     <Resource Include="Views\Намордник.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Database\Namordnik_DB.sql" />
     <Content Include="products\5fb128cc69235.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
