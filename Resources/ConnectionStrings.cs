@@ -2,6 +2,6 @@
 {
     public static class ConnectionStrings
     {
-        public static readonly string Default = @"Data Source=USER-PC;Initial Catalog=yp_04_Lobanova;Integrated Security=True";
+        public static readonly string Default = @"Data Source=USER-PC;Initial Catalog=Namordnik_DB;Integrated Security=True";
     }
 }
